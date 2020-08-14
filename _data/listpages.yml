@@ -1,0 +1,39 @@
+toc:
+  - title: Receitas salgadas
+    subfolderitems:
+      - page: Arroz integral com quinoa 
+        url: ./salgado/arroz-quinoa.html
+      - page: Falafel
+        url: ./salgado/falafel.html
+      - page: Fanqie Chao Dan
+        url: ./salgado/fanqie-chao-dan.html
+      - page: Hummus
+        url: ./salgado/hummus.html
+      - page: Kibe de forno de batata doce
+        url: ./salgado/kibe-forno-batata-doce.html
+      - page: Molho de tahini
+        url: ./salgado/molho-tahini.html
+      - page: Moqueca de banana da terra
+        url: ./salgado/moqueca-banana-terra.html
+      - page: Naan
+        url: ./salgado/naan.html
+      - page: Pão de Queijo
+        url: ./salgado/pao-de-queijo.html
+      - page: Quiche de alho-poró
+        url: ./salgado/quiche-alho-poro.html
+      - page: Tagliatelle al limone
+        url: ./salgado/tagliatelle-al-limone.html
+  - title: Receitas doces
+    subfolderitems:
+      - page: Bolo de banana e aveia
+        url: ./doce/bolo-banana-aveia.html
+      - page: Bolo de fubá com goiabada
+        url: ./doce/bolo-fuba-goiabada.html
+      - page: Crêpe
+        url: ./doce/crepe.html
+  - title: Outras coisas úteis
+    subfolderitems:
+      - page: Legumes e frutas da estação
+        url: ./daestacao.html
+
+  
