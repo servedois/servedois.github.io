@@ -7,20 +7,26 @@
   <input type="hidden" name="options[reCaptcha][secret]"  value="{{ site.reCaptcha.secret }}">
 
   <div class="textfield">
-    <label for="comment-form-message"><h2>Adicionar comentário<small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">(cancel reply)</a></small></h2>
-      <textarea class="textfield__input" name="fields[message]" type="text" id="comment-form-message" placeholder="Seu comentário" required rows="6"></textarea>
+    <label for="comment-form-message"><h2>Adicione um comentário<small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">(cancel reply)</a></small></h2>
+      <textarea class="textfield__input" name="fields[message]" type="text" id="comment-form-message" placeholder="Seu comentário (markdown é aceito)" required rows="6"></textarea>
     </label>
   </div>
 
     <div class="textfield narrowfield">
       <label for="comment-form-name">Nome
-        <input class="textfield__input" name="fields[name]" type="text" id="comment-form-name" placeholder="Seu nome (obrigatório)" required/>
+        <input class="textfield__input" name="fields[name]" type="text" id="comment-form-name" placeholder="seu nome (obrigatório)" required/>
       </label>
     </div>
 
     <div class="textfield narrowfield">
       <label for="comment-form-email">E-mail
-        <input class="textfield__input" name="fields[email]" type="email" id="comment-form-email" placeholder="Seu e-mail (opcional)"/>
+        <input class="textfield__input" name="fields[email]" type="email" id="comment-form-email" placeholder="seu e-mail (opcional)"/>
+      </label>
+    </div>
+
+    <div class="textfield narrowfield hp">
+      <label for="hp">
+        <input class="textfield__input" name="fields[hp]" id="hp" type="text" placeholder="Leave blank">
       </label>
     </div>
 
@@ -48,5 +54,5 @@
 </svg>
 
 {% comment %}
-	from: https://github.com/eduardoboucas/popcorn/blob/gh-pages/_includes/modal.html
+  from: https://github.com/eduardoboucas/popcorn/blob/gh-pages/_includes/modal.html
 {% endcomment %}

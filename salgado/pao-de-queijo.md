@@ -1,6 +1,7 @@
 ---
 title: Pão de queijo
 tags: [brasileira, cafe-da-tarde, mineira, queijo]
+slug: pao-de-queijo
 receita: true
 comments: true
 ---

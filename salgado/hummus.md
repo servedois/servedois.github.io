@@ -1,6 +1,7 @@
 ---
 title: Hummus
 tags: [grao-de-bico, libanesa, vegana]
+slug: hummus
 receita: true
 comments: true
 ---

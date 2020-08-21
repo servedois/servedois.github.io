@@ -1,6 +1,7 @@
 ---
 title: Kibe de forno de batata doce
 tags: [batata-doce, libanesa, vegana, forno]
+slug: kibe-forno-batata-doce
 receita: true
 comments: true
 ---
@@ -46,4 +47,6 @@ Kibe de forno versão libanesa
 
 ### Comentários
 
-Serve 4 pessoas. Uma boa sugestão é comer com [molho de tahini](molho-tahini.md) e salada.
+Serve 4 pessoas. Uma boa sugestão é comer com [molho de tahini](molho-tahini.md) e salada. 
+
+Outra sugestão é recheiar com espinafre e grão de bico para ter um kibe mais nutritivo ainda. Para preparar o kibe recheado, coloque uma camada da mistura, então coloque o refogado de espinafre com grão de bico e molho de tomate, e por fim cubra com o restante da misture.

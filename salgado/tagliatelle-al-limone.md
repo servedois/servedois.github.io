@@ -1,6 +1,7 @@
 ---
 title: Tagliatelle al limone
 tags: [italiana, limao, macarrao]
+slug: tagliatelle-al-limone
 receita: true
 comments: true
 ---

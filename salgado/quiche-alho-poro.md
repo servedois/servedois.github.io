@@ -1,6 +1,7 @@
 ---
 title: Quiche de alho-poró
 tags: [alho-poro, forno, francesa]
+slug: quiche-alho-poro
 receita: true
 comments: true
 ---

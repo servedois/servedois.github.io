@@ -1,6 +1,7 @@
 ---
 title: Naan
 tags: [indiana, pao]
+slug: naan
 receita: true
 comments: true
 ---

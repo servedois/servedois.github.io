@@ -1,6 +1,7 @@
 ---
 title: Bolo de fubá com goiabada
 tags: [bolo, brasileira, fuba, goiabada]
+slug: bolo-fuba-goiabada
 receita: true
 comments: true
 ---
