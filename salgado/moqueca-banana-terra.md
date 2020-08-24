@@ -1,7 +1,7 @@
 ---
 title: Moqueca de banana da terra
 tags: [banana, brasileira, vegana]
-slug: moqueca-banana-terra
+folder: moqueca_banana_terra
 receita: true
 comments: true
 ---

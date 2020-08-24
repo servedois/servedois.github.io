@@ -1,7 +1,7 @@
 ---
 title: Arroz integral com quiona
 tags: [basico, vegana]
-slug: arroz-quinoa
+folder: arroz_quinoa
 receita: true
 comments: true
 ---

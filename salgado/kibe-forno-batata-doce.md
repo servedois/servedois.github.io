@@ -1,7 +1,7 @@
 ---
 title: Kibe de forno de batata doce
 tags: [batata-doce, libanesa, vegana, forno]
-slug: kibe-forno-batata-doce
+folder: kibe_forno_batata_doce
 receita: true
 comments: true
 ---

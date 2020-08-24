@@ -1,7 +1,7 @@
 ---
 title: Molho de Tahini
 tags: [libanesa, molho, tahini, vegana]
-slug: molho-tahini
+folder: molho_tahini
 receita: true
 comments: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Fanqie Chao Dan
 tags: [chinesa, tomate, ovo]
-slug: fanqie-chao-dan
+folder: fanqie_chao_dan
 receita: true
 comments: true
 ---

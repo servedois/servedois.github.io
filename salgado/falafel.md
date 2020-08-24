@@ -1,7 +1,7 @@
 ---
 title: Falafel
 tags: [grao-de-bico, libanesa, vegana, forno]
-slug: falafel
+folder: falafel
 receita: true
 comments: true
 ---

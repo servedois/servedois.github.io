@@ -1,6 +1,6 @@
 ---
 title: Paneer Butter Masala
-slug: paneer-butter-masala
+folder: paneer_butter_masala
 receita: false
 comments: false
 ---

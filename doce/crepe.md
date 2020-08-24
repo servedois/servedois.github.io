@@ -1,7 +1,7 @@
 ---
 title: Crêpe
 tags: [francesa]
-slug: crepe
+folder: crepe
 receita: true
 comments: true
 ---

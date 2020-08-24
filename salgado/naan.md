@@ -1,7 +1,7 @@
 ---
 title: Naan
 tags: [indiana, pao]
-slug: naan
+folder: naan
 receita: true
 comments: true
 ---
