@@ -1,5 +1,15 @@
 <section class="comments" id="comment-section">
   <hr>
+  {{ page.folder }}
+
+  {% capture thefile %}{{ page.folder }}{% end capture %}
+
+  {{ site.data.comments.thefile[com] }}
+  {% for service in site.data[thefile] %}
+
+  {% endfor %}
+
+  {{ site.data.comments.thefile }}
   {% if site.data.comments[page.folder] %}
   <!-- Existing comments -->
   <div class="comments__existing">
