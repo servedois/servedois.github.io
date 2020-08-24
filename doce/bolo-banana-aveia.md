@@ -1,7 +1,7 @@
 ---
 title: Bolo de banana e aveia
 tags: [bolo, aveia, banana]
-slug: bolo-banana-aveia
+folder: bolo_banana_aveia
 receita: true
 comments: true
 ---
