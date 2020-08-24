@@ -6,7 +6,7 @@ comments: false
 ---
 
 ### Ingredientes
-// tags: [indiana, paneer]
+<!-- tags: [indiana, paneer] -->
 
 
 ### Mise en place
