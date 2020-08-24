@@ -1,13 +1,12 @@
 ---
 title: Paneer Butter Masala
-tags: [indiana, paneer]
 slug: paneer-butter-masala
 receita: false
 comments: false
 ---
 
 ### Ingredientes
-
+// tags: [indiana, paneer]
 
 
 ### Mise en place
