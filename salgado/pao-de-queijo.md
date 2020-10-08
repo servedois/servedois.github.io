@@ -37,5 +37,5 @@ comments: true
 
 ### Comentários
 
-Rende uns 24 pães de queijo pequeno, mas esses crescem bastante no forno. Você também pode congelar as bolinhas, mas cuidado ao colocar no congelador para não grudar. 
+Rende uns 24 pães de queijo pequeno, mas esses crescem bastante no forno. Você também pode congelar as bolinhas antes de assar, mas cuidado ao colocar no congelador para não grudar. 
 Sugestão de acompanhamento é fazer um molho de goiabada.

@@ -35,5 +35,7 @@ toc:
     subfolderitems:
       - page: Legumes e frutas da estação
         url: ./daestacao.html
+      - page: Substituições do ovo
+        url: ./subsovo.html
 
   
