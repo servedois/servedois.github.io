@@ -1,7 +1,9 @@
 ---
 title: nome da receita
 tags: [tag1, tag2, tag3]
+folder: folder_name
 receita: true
+comments: true
 ---
 
 ### Descrição
