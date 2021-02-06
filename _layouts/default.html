@@ -21,6 +21,7 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <title>Serve dois</title>
   </head>
   <body>
     <!-- <a id="skip-to-content" href="#content">Skip to the content.</a> -->
@@ -54,7 +55,7 @@
           </span>
         {% endif %}
         <br><br>
-        <img src="../assets/images/receitas/{{ page.folder }}.jpg" width="400" height="600">
+        <img src="../assets/images/receitas/{{ page.folder }}.jpg" width="400" height="600" alt="foto-receita">
 
         {{ content }}
 
@@ -77,6 +78,7 @@
 
       {% if page.tagName %}
          <h2>Tag: {{ page.tagName }}</h2>
+         <ul>
         {% for receita in site.pages %}
           {% for tag in receita.tags %}
             {% if tag == page.tagName %}
@@ -86,6 +88,7 @@
             {% endif %}
           {% endfor %}
         {% endfor %}
+        </ul>
 
         <h2> Todas tags: </h2>
         {% for tag in site.data.ltags.listtags %}
