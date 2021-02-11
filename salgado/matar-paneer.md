@@ -21,7 +21,7 @@ Curry indiano com molho de tomate, ervilha e paneer.
 - ½ colher de chá de curcuma em pó
 - 1 ½ colher de chá de pimenta vermelha em pó
 - 2 colheres de chá de coentro em pó
-- 1 ½ copos de purê de tomate fresco ou uma lata de molho de tomate
+- 1 ½ copos de purê de tomate fresco (uns 4 tomates médios) ou uma lata de molho de tomate
 - 1 copo de ervilha fresca (congelada)
 - Sal a gosto
 
